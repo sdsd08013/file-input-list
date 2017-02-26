@@ -1,11 +1,19 @@
 {
-  "name": "file-input-list",
-  "version": "1.0.0",
+  "name": "input-file-list",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/InputFileList.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "iwsksky",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsd08013/file-input-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdsd08013/file-input-list/issues"
+  },
+  "homepage": "https://github.com/sdsd08013/file-input-list#readme"
 }
